@@ -1,0 +1,1 @@
+QueryPDF is a powerful tool that allows users to query multiple PDF documents and receive accurate answers based on the content of those PDFs. Built using LangChain and Gemini, this project provides a simple interface for extracting information from documents, making it easier to analyze, search, and interact with large volumes of text.
